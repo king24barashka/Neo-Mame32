@@ -207,3 +207,6 @@ This repository serves as the official landing page for Neo MAME32. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Neo MAME32 today!**
+
+---
+**Last updated:** 2026-11-09 08:55:57 UTC
